@@ -1,2 +1,2 @@
 # calendar-app
-My reminder application
+Simple calendar and notification app for managing time
